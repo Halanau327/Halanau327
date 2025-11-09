@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Alexander Galanov
 
-<!--
-**Halanau327/Halanau327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer — JavaScript/TypeScript, React, Next.js, Vue 3.
 
-Here are some ideas to get you started:
+- Building performant SPAs/SSR, clean UI systems, and smooth DX
+- Comfortable with Storybook, CI/CD, Docker/K8s
+- Open to frontend roles (React/Next.js), product-focused teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- [socialNetwork](https://github.com/Halanau327/socialNetwork) — Social network on Next.js: feed, profile, authorization, deployment
+- [admin-socialNetwork](https://github.com/Halanau327/admin-socialNetwork) — Admin social network on Next.js, Storybook, CI/CD, Docker/K8s
+- [portfolio](https://github.com/Halanau327/portfolio) — Developer portfolio (React + TypeScript): projects, skills, testimonials, contacts
+- [music-lover](https://github.com/Halanau327/music-lover) — Music app (TypeScript): audio player, playlists, search, favorites
+- [eng-web](https://github.com/Halanau327/eng-web) — English-learning app: lessons, exercises, vocabulary, progress tracking
+
+## Tech
+
+- Languages: TypeScript, JavaScript (ESNext)
+- Frontend: React, Next.js, Vue 3
+- UI: styled-components, CSS Modules, Tailwind (при необходимости)
+- State/Forms: Redux Toolkit, RTK Query, React Hook Form, Zod
+- Tooling: Vite, CRA, Webpack, Jest, Storybook
+- Ops: GitHub Actions, Docker, Kubernetes
+
+## Contact
+
+- GitHub: https://github.com/Halanau327
+- Open to opportunities — ping me via GitHub issues/DM
