@@ -13,6 +13,6 @@ Frontend Developer experienced in building scalable React, Next.js, and TypeScri
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halanau327&theme=city_lights)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halanau327&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halanau327&theme=city_lights)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halanau327&theme=city_lights&utcOffset=8)
 
-## Connect with me:
+## Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.halanau@gmail.com)
